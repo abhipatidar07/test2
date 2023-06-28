@@ -1,0 +1,264 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed&display=swap');
+
+.container {
+    background-color: hsl(210, 46%, 95%);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+}
+
+.box1 {
+    background-color: hsl(263, 55%, 52%);
+    width: 550px;
+    height: 225px;
+    margin-top: 48px;
+    margin-left: 107px;
+    display: flex;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(143, 141, 141);
+}
+
+.box2 {
+    background-color: hsl(217, 19%, 35%);
+    width: 220px;
+    height: 225px;
+    margin-left: 68px;
+    margin-top: -2px;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(143, 141, 141);
+}
+
+.box5 {
+    background-color: hsl(0, 0%, 100%);
+    width: 220px;
+    height: 494px;
+    margin-top: -2px;
+    margin-left: 61px;
+    color: black;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(143, 141, 141);
+}
+
+.box3 {
+    background-color: hsl(0, 0%, 100%);
+    width: 200px;
+    height: 225px;
+    margin-top: 265px;
+    margin-left: -805px;
+    color: black;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(143, 141, 141);
+}
+
+.box4 {
+    background-color: hsl(219, 29%, 14%);
+    width: 543px;
+    height: 225px;
+    margin-top: 265px;
+    margin-left: 79px;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(143, 141, 141);
+}
+
+/* For box 1 */
+.box1 img {
+    border-radius: 50%;
+    border: 2px solid white;
+    margin-top: 24px;
+    margin-left: 27px;
+}
+
+.heading {
+    height: 54px;
+    width: 66px;
+}
+
+.head1 p {
+    width: 100px;
+    margin-top: 22px;
+    margin-left: 21px;
+    font-weight: bolder;
+}
+
+.head2 p {
+    width: 120px;
+    margin-top: -14px;
+    margin-left: 21px;
+    font-size: small;
+}
+
+.content1 p {
+    width: 504px;
+    margin-top: 72px;
+    margin-left: -93px;
+    font-weight: bolder;
+}
+
+.content2 p {
+    width: 504px;
+    margin-top: 132px;
+    margin-left: -503px;
+    font-size: small;
+    color: rgb(222, 217, 217);
+}
+
+/* for box 2 */
+.box2 img {
+    border-radius: 50%;
+    border: 2px solid white;
+    margin-top: 24px;
+    margin-left: 27px;
+}
+
+.head3 p {
+    width: 134px;
+    margin-top: -38px;
+    margin-left: 70px;
+    font-weight: bolder;
+}
+
+.head4 p {
+    width: 120px;
+    margin-top: -13px;
+    margin-left: 71px;
+    font-size: small;
+}
+
+.content3 p {
+    width: 171px;
+    margin-top: -6px;
+    margin-left: 28px;
+    font-weight: bolder;
+}
+
+.content4 p {
+    width: 167px;
+    margin-top: -16px;
+    margin-left: 26px;
+    font-size: small;
+    color: rgb(222, 217, 217);
+}
+
+/* for box 5 */
+.box5 img {
+    border-radius: 50%;
+    border: 2px solid white;
+    margin-top: 24px;
+    margin-left: 27px;
+}
+
+.head5 p {
+    width: 100px;
+    margin-top: -34px;
+    margin-left: 66px;
+    font-weight: bolder;
+}
+
+.head6 p {
+    width: 120px;
+    margin-top: -15px;
+    margin-left: 66px;
+    font-size: small;
+}
+
+.content9 p {
+    width: 183px;
+    margin-top: 22px;
+    margin-left: 28px;
+    font-weight: bolder;
+}
+
+.content10 p {
+    width: 160px;
+    margin-top: 13px;
+    margin-left: 27px;
+    font-size: small;
+    color: rgb(67, 65, 65);
+}
+
+/* for box 3 */
+.box3 img {
+    border-radius: 50%;
+    border: 2px solid white;
+    margin-top: 24px;
+    margin-left: 27px;
+}
+
+.head7 p {
+    width: 120px;
+    margin-top: -34px;
+    margin-left: 66px;
+    font-weight: bolder;
+}
+
+.head8 p {
+    width: 120px;
+    margin-top: -15px;
+    margin-left: 66px;
+    font-size: small;
+}
+
+.content5 p {
+    width: 154px;
+    margin-top: 12px;
+    margin-left: 28px;
+    font-weight: bolder;
+}
+
+.content6 p {
+    width: 157px;
+    margin-top: 13px;
+    margin-left: 27px;
+    font-size: small;
+    color: rgb(67, 65, 65);
+}
+
+/* for box 4 */
+.box4 img {
+    border-radius: 50%;
+    border: 2px solid white;
+    margin-top: 24px;
+    margin-left: 27px;
+}
+
+.head9 p {
+    width: 120px;
+    margin-top: -34px;
+    margin-left: 66px;
+    font-weight: bolder;
+}
+
+.head10 p {
+    width: 120px;
+    margin-top: -15px;
+    margin-left: 66px;
+    font-size: small;
+    color: rgb(173, 169, 169);
+}
+
+.content7 p {
+    width: 514px;
+    margin-top: 12px;
+    margin-left: 28px;
+    font-weight: bolder;
+}
+
+.content8 p {
+    width: 462px;
+    margin-top: 13px;
+    margin-left: 27px;
+    font-size: small;
+}
+
+/* .attribution {
+      font-size: 11px;
+      text-align: center;
+    }
+
+    .attribution a {
+      color: hsl(228, 45%, 44%);
+    } */
